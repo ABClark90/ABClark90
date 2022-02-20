@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam Clark
-- 👀 I’m interested in Machine Learning, Deep learning and robotics
+- 👀 I’m interested in Machine Learning, Python Programming and Web Development
 - 🌱 I’m currently learning Tensorflow and ROS
 - 💞️ I’m looking to collaborate on Anything related to my interests
 - 📫 How to reach me adam_schenk@hotmail.com
